@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter" alt="Flutter"></a>
   <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Platform-Android-green?logo=android" alt="Android"></a>
-  <a href="https://github.com/Dheeraj-Chintala/Android-Apps/blob/master/savourai/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
 
 
@@ -60,7 +60,7 @@ SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable f
 ---
 
 ##  Direct APK Download 
-<a href="https://github.com/Dheeraj-Chintala/Android-Apps/raw/master/savourai/SavourAI.apk" download>
+<a href="https://github.com/Dheeraj-Chintala/Savour-AI/releases/tag/v1.0.0" download>
   <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK">
 </a>
 
@@ -69,8 +69,8 @@ SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable f
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/Dheeraj-Chintala/Android-Apps.git
-   cd savourai
+   git clone https://github.com/Dheeraj-Chintala/Savour-AI.git
+   cd Savour-AI
 2. Get dependencies
    ```bash
    flutter pub get
