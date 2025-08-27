@@ -23,6 +23,17 @@ SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable f
 -  Infinite scroll with dynamic meal loading
 
 ---
+
+
+## Demo
+<p align="center">
+  <img src="assets/screenshots/demo1.gif" alt="demo-1"  height="500px"/>
+<img src="assets/screenshots/demo2.gif" alt="demo-1"  height="500px"/>
+</p>
+
+
+---
+
 ##  Screenshots
 
 ### Detailed recipes and video tutorials
