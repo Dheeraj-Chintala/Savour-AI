@@ -26,19 +26,11 @@ SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable f
 
 
 ## Demo
-<p align="center">
-  <img src="assets/screenshots/demo1.gif" alt="demo-1"  height="500px"/>
 
-</p>
-<h3 align="center">Homepage with new swipeable Horizontal recipe feed.</h3>
 
----
-
-<p align="center">
-  
-<img src="assets/screenshots/demo2.gif" alt="demo-2"  height="500px"/>
-</p>
-<h3 align="center">Search any Meals, Dishes and Recipes.</h3>
+|Homepage with new swipeable Horizontal recipe feed|Search any Meals, Dishes and Recipes|
+|--------------------------------------------------|-----------------------------------|
+|<p align="center"><img src="assets/screenshots/demo1.gif" alt="demo-1"  height="500px"/></p>|<p align="center"><img src="assets/screenshots/demo2.gif" alt="demo-2"  height="500px"/></p>|
 
 
 ---
