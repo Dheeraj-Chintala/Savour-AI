@@ -83,9 +83,12 @@ SavourAI is a beautiful Flutter application that delivers a dynamic, swipeable f
    ```bash
    git clone https://github.com/Dheeraj-Chintala/Savour-AI.git
    cd Savour-AI
+   ```
 2. Get dependencies
    ```bash
    flutter pub get
+   ```
 3. Run
    ```bash
    flutter run
+   ```
